@@ -47,3 +47,11 @@ import lua_imports; lua_imports.lua_importer.register()
 ## Caveats
 
 This module wraps [Lupa](https://github.com/scoder/lupa), and so comes with all the same caveats about Lua vs. Python data types.
+
+## Installation
+
+Install and update using [pip](https://pip.pypa.io/en/stable/):
+
+```bash
+pip install lua_imports
+```
